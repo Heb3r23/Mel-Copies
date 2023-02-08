@@ -1,1 +1,3 @@
 # Mel-Copies
+Academic Integrity
+Academic integrity is of central importance in this and every other course at SFSU. You are obliged to consult the appropriate sections of the University Catalog and obey all rules and regulations imposed by the University relevant to its lawful missions, processes, and functions. All work turned in by a student for a grade must be the students’ own work. Plagiarism and cheating (e.g. stealing or copying the work of others and turning it in as your own) will not be tolerated, and will be dealt with according to University policy. The consequences for being caught plagiarizing or cheating range from a minimum of a zero grade for the work you plagiarized or cheated on, to being dropped from the course.
